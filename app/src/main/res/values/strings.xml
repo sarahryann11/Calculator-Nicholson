@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Calculator-Nicholson</string>
+    <string name="app_name">Calculator</string>
+    <string name="input">30 - 7 = 23</string>
 </resources>
