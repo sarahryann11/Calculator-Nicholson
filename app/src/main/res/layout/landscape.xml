@@ -7,6 +7,7 @@
     android:paddingLeft="@dimen/margin"
     android:paddingRight="@dimen/margin"
     android:verticalScrollbarPosition="left"
+    android:background="@color/background"
     android:alignmentMode="alignMargins"
     android:columnOrderPreserved="false">
 
@@ -19,8 +20,9 @@
         android:layout_row="0"
         android:layout_column="0"
         android:layout_columnSpan="6"
-        android:textSize="24sp"
-        android:textAlignment="viewEnd" />
+        android:textSize="35sp"
+        android:textAlignment="viewEnd"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
     <Button
         android:text="C"
